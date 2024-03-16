@@ -1,4 +1,4 @@
-baseURL = 'https://rio109.github.io/'
+baseURL = 'https://rio109.github.io'
 languageCode = "ko-KR"
 paginate = 5
 title = 'little booth'
